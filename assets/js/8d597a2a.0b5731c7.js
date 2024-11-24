@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[9346],{965:e=>{e.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"Day 1","description":"THIS IS THE NOOBHUB","slug":"/category/day-1","permalink":"/docs24/docs/category/day-1","sidebar":"tutorialSidebar","navigation":{"next":{"title":"GET SHIT ROLLIN\'","permalink":"/docs24/docs/day1/2"}}}}')}}]);
